@@ -14,7 +14,7 @@ import TechStackCard from './TechStackCard';
 
 const TechStackSection = () => {
 	const techStack = [
-		{ title: 'React', Icon: ReactIcon },
+		{ title: 'React.js', Icon: ReactIcon },
 		{ title: 'Next.js', Icon: NextJsIcon },
 		{ title: 'Node.js', Icon: NodeIcon },
 		{ title: 'Nest.js', Icon: NestJsIcon },
