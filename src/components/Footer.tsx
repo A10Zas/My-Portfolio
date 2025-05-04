@@ -17,14 +17,14 @@ const Footer = () => {
 				{/* Right - Social Links */}
 				<div className="flex gap-4">
 					<Link
-						href="https://github.com/zunaidahammed"
+						href="https://github.com/A10Zas"
 						aria-label="GitHub"
 						className="hover:text-black dark:hover:text-white transition-colors duration-200"
 					>
 						<GithubIcon className="w-4 h-4" />
 					</Link>
 					<Link
-						href="https://linkedin.com/in/zunaidahammed"
+						href="https://www.linkedin.com/in/zunaid-ahammed-59b381239/"
 						aria-label="LinkedIn"
 						className="hover:text-blue-700 dark:hover:text-blue-400 transition-colors duration-200"
 					>
