@@ -31,7 +31,7 @@ const FeaturedProjectSection = () => {
 						className="w-full h-40 object-fill  rounded-t-xl"
 					/>
 					<h1 className="p-4 text-lg font-semibold text-gray-800 dark:text-gray-100">
-						Engineering Hub (College Final year )
+						Engineering Hub (Final year Project)
 					</h1>
 					<div className="flex gap-3 flex-wrap px-4">
 						<TechBadge label="Remix JS" />
